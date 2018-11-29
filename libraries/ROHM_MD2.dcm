@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EMD2
+D ROHM Semiconductor General Purpose Dual Digital Transistor NPN/PNP 22k/22k
+$ENDCMP
+#
+$CMP IMD2A
+D ROHM Semiconductor General Purpose Dual Digital Transistor NPN/PNP 22k/22k
+$ENDCMP
+#
+$CMP UMD2N
+D ROHM Semiconductor General Purpose Dual Digital Transistor NPN/PNP 22k/22k
+$ENDCMP
+#
+#End Doc Library
